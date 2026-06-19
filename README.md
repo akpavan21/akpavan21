@@ -135,21 +135,6 @@ NVIDIA | Aug 2020 – Nov 2021
 
 <br />
 
-## GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akpavan21&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=akpavan21&theme=tokyonight&hide_border=true" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akpavan21&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br />
-
 ## Current Focus
 
 - Building AI-powered career and productivity platforms.
